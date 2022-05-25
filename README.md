@@ -1,6 +1,7 @@
 # 睡觉是不可能的🥷🐼👽
-### Expert in the fusion of Vue and React
+### Expert in the fusion of Vue and React  
 > <img width=60 src="https://raw.githubusercontent.com/devilwjp/VueReact/master/vuereact-combined.png"/>  
-
+### Contributor of the Uniapp plugins  
+> <img width=60 src="https://user-images.githubusercontent.com/38802722/170316099-9fe34d54-453e-4c3a-9d1b-bf5630141c4d.png"/>  
 
 ![info](https://github-readme-stats.vercel.app/api?username=devilwjp&count_private=true&show_icons=true&theme=cobalt&&hide=prs&show_owner=true)
