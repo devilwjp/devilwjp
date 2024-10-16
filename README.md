@@ -1,7 +1,6 @@
 # 睡觉是不可能的🥷🐼👽
 [![Stars](https://img.shields.io/github/stars/devilwjp.svg?affiliations=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&style=for-the-badge)](https://github.com/devilwjp)
 
-## 我正在寻求一份合适的工作，如果有机会请联系我！  
 ## ( 微信: devilwjp_new / QQ: 9700616 )   
 
 ### Expert in the fusion of Vue and React  
